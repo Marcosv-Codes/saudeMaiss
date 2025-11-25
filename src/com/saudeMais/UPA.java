@@ -87,6 +87,6 @@ public class UPA {
     }
 
     public double getTempoMedioEspera() {
-        return 0.0; // versão sem cálculo real
+        return 0.0; 
     }
 }
